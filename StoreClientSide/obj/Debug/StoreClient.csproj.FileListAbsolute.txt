@@ -1,0 +1,31 @@
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.csproj.AssemblyReference.cache
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.Properties.Resources.resources
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.csproj.GenerateResource.cache
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.csproj.CoreCompileInputs.cache
+C:\Users\malia\source\repos\StoreClient\bin\Debug\StoreClient.exe.config
+C:\Users\malia\source\repos\StoreClient\bin\Debug\StoreClient.exe
+C:\Users\malia\source\repos\StoreClient\bin\Debug\StoreClient.pdb
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.exe
+C:\Users\malia\source\repos\StoreClient\obj\Debug\StoreClient.pdb
+C:\Users\malia\source\repos\StoreClient - Copy\bin\Debug\StoreClient.exe.config
+C:\Users\malia\source\repos\StoreClient - Copy\bin\Debug\StoreClient.exe
+C:\Users\malia\source\repos\StoreClient - Copy\bin\Debug\StoreClient.pdb
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.csproj.AssemblyReference.cache
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.Properties.Resources.resources
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.csproj.GenerateResource.cache
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.csproj.CoreCompileInputs.cache
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.exe
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.pdb
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.LoginForm.resources
+C:\Users\malia\source\repos\StoreClient - Copy\obj\Debug\StoreClient.CustomerForm.resources
+D:\Seneca\PRG650\Project\StoreClientSide\bin\Debug\StoreClient.exe.config
+D:\Seneca\PRG650\Project\StoreClientSide\bin\Debug\StoreClient.exe
+D:\Seneca\PRG650\Project\StoreClientSide\bin\Debug\StoreClient.pdb
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.csproj.AssemblyReference.cache
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.CustomerForm.resources
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.LoginForm.resources
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.Properties.Resources.resources
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.csproj.GenerateResource.cache
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.csproj.CoreCompileInputs.cache
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.exe
+D:\Seneca\PRG650\Project\StoreClientSide\obj\Debug\StoreClient.pdb

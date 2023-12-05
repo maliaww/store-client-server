@@ -1,0 +1,21 @@
+C:\Users\malia\source\repos\StoreServer\bin\Debug\StoreServer.exe.config
+C:\Users\malia\source\repos\StoreServer\bin\Debug\StoreServer.exe
+C:\Users\malia\source\repos\StoreServer\bin\Debug\StoreServer.pdb
+C:\Users\malia\source\repos\StoreServer\obj\Debug\StoreServer.csproj.AssemblyReference.cache
+C:\Users\malia\source\repos\StoreServer\obj\Debug\StoreServer.csproj.CoreCompileInputs.cache
+C:\Users\malia\source\repos\StoreServer\obj\Debug\StoreServer.exe
+C:\Users\malia\source\repos\StoreServer\obj\Debug\StoreServer.pdb
+C:\Users\malia\source\repos\StoreServer - Copy\bin\Debug\StoreServer.exe.config
+C:\Users\malia\source\repos\StoreServer - Copy\bin\Debug\StoreServer.exe
+C:\Users\malia\source\repos\StoreServer - Copy\bin\Debug\StoreServer.pdb
+C:\Users\malia\source\repos\StoreServer - Copy\obj\Debug\StoreServer.csproj.AssemblyReference.cache
+C:\Users\malia\source\repos\StoreServer - Copy\obj\Debug\StoreServer.csproj.CoreCompileInputs.cache
+C:\Users\malia\source\repos\StoreServer - Copy\obj\Debug\StoreServer.exe
+C:\Users\malia\source\repos\StoreServer - Copy\obj\Debug\StoreServer.pdb
+D:\Seneca\PRG650\Project\StoreServerSide\bin\Debug\StoreServer.exe.config
+D:\Seneca\PRG650\Project\StoreServerSide\bin\Debug\StoreServer.exe
+D:\Seneca\PRG650\Project\StoreServerSide\bin\Debug\StoreServer.pdb
+D:\Seneca\PRG650\Project\StoreServerSide\obj\Debug\StoreServer.csproj.AssemblyReference.cache
+D:\Seneca\PRG650\Project\StoreServerSide\obj\Debug\StoreServer.csproj.CoreCompileInputs.cache
+D:\Seneca\PRG650\Project\StoreServerSide\obj\Debug\StoreServer.exe
+D:\Seneca\PRG650\Project\StoreServerSide\obj\Debug\StoreServer.pdb
